@@ -1,7 +1,8 @@
 # Technincal-Sample
+Pass in a string as argument to the endpoint. It should return a string containing every third letter from the original string.
 
 ## Demo
-!(https://media.giphy.com/media/ggnxcdr8BnQ5mDr6Z3/giphy.gif)
+!(images/technical-sample.gif)</br>
 
 ## About Me
 Roberto Manese is an iOS Engineer in the Bay Area.
